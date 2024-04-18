@@ -33,8 +33,4 @@ Users should be able to:
 
 - Website - [Akibul Islam Shafi]( https://github.com/akibulshafi?tab=repositories)
 - Frontend Mentor - [@akibulshafi]( https://www.frontendmentor.io/profile/akibulshafi)
-
-## Acknowledgments
-
-I was in complete error while creating this project, then I got help from ‘Greg Davi’ his Frontend Mentor Profile is (https://www.frontendmentor.io/profile/Greg-davi)
-
+- Twitter - [@akibulshafii](https://twitter.com/akibulshafii)
